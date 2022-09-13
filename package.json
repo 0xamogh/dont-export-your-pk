@@ -1,6 +1,6 @@
 {
   "name": "dont-export-your-pk",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A utility that allows devs to interact with contracts without exporting their pk",
   "main": "index.js",
   "scripts": {
