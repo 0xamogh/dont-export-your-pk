@@ -4,7 +4,7 @@
 
 Yay, no errors, warnings, or alerts!
 
-Conversion time: 0.293 seconds.
+Conversion time: 0.277 seconds.
 
 
 Using this Markdown file:
@@ -17,7 +17,7 @@ Using this Markdown file:
 Conversion notes:
 
 * Docs to Markdown version 1.0β33
-* Tue Sep 13 2022 07:11:57 GMT-0700 (PDT)
+* Tue Sep 13 2022 07:13:09 GMT-0700 (PDT)
 * Source doc: Dont Export Your PK
 * This is a partial selection. Check to make sure intra-doc links work.
 
@@ -27,18 +27,14 @@ You have 2 H1 headings. You may want to use the "H1 -> H2" option to demote all 
 ----->
 
 
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 0.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
 
-<p style="color: red; font-weight: bold">Links to alert messages:</p>
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
 
 
 
 # Don’t Export You PK
 
 
-## A simple dev utility accompanied with a webapp to enable executing transactions without having to export your pk from the wallet
+### A simple dev utility accompanied with a webapp to enable executing transactions without having to export your pk from the wallet
 
 
 # Installation
