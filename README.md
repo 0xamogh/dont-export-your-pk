@@ -31,11 +31,8 @@ You have 2 H1 headings. You may want to use the "H1 -> H2" option to demote all 
 
 
 
-# Don’t Export You PK
-
-
-### A simple dev utility accompanied with a webapp to enable executing transactions without having to export your pk from the wallet
-
+# Don’t Export Your PK
+ A simple dev utility accompanied with a webapp to enable executing transactions without having to export your pk from the wallet
 
 # Installation
 
